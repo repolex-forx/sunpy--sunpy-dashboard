@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "sunpy",
+  "repo": "sunpy-dashboard",
+  "versions": [
+    {
+      "commit": "589a2e5a9383363b4520799d78cf6476557feea6",
+      "parsed_at": "2026-11-07T02:26:35.081348+00:00",
+      "filetree": "filetree/589a2e5a9383363b4520799d78cf6476557feea6.nq.gz",
+      "blobs": [
+        "blob/9c27956b1022b5b693f231ff686401ad71b4c470.nq.gz",
+        "blob/88229803931abb407bfd935a7a4b9cab2318e39f.nq.gz",
+        "blob/bec19cc8d89f132de785b917cea7bf80f2a9d685.nq.gz",
+        "blob/82e0072a1f130f57c334ad7086d232d6274465fd.nq.gz",
+        "blob/925f357c99e9957055ba71ede220b30adca9f323.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/e44116efc27fb16532baaf5147eac27ce4db3b23.nq.gz",
+        "blob/bedce3020e239cdb777bf065366c525b25838f7b.nq.gz",
+        "blob/3f6d7b518bde215c9fb8335e17a3947ff3e83102.nq.gz",
+        "blob/2de678147d341dae0819c9b14179f0c17798c489.nq.gz",
+        "blob/c553dcd8689c1cb6cb53d8d5c3ec63993f551e02.nq.gz",
+        "blob/08ee7af6657a94577361d12135214cb300cf7437.nq.gz",
+        "blob/dcc2a23dbd99056942ec97df4288647fdbb87105.nq.gz",
+        "blob/1e8f8474ae53e146347354acc57fc981f600bd77.nq.gz",
+        "blob/f116f872d5b4d46d6ec71f052b0bd6406238d0ea.nq.gz",
+        "blob/b0ac43b9a7996ff6776985a5a999589df70d2bf2.nq.gz",
+        "blob/432693ed156cbc71c3f5102c988fd928028aaa9b.nq.gz",
+        "blob/4a78a2d1a3379fd65aad9b355e6fb66e1b58c8c6.nq.gz",
+        "blob/57fdb5cd280b8f36c9015bab555353366f68421a.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/de04e2f361fc2b03aab9fa6908ad9edb54093a04.nq.gz",
+        "blob/69421ad2802fd89580a4e85c47af2d15ddca3923.nq.gz",
+        "blob/15ddb1d859f05458691363a7c944e59fc31966b6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
