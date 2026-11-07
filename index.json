@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunpy-dashboard",
+  "versions": [
+    {
+      "commit": "589a2e5a9383363b4520799d78cf6476557feea6",
+      "tag": "",
+      "parsed_at": "2026-11-07T02:28:45.326309+00:00"
+    }
+  ]
+}
